@@ -1319,7 +1319,7 @@ Footer Start
 	float: left;
 }
 .footer-widget h4 {
-	color: #9ccc65;
+	color: #11b424;
 	margin-bottom: 15px;
 	font-size: 24px;
 	font-weight: 600;
@@ -1328,7 +1328,7 @@ Footer Start
 	color: #cccccc;
 }
 .footer-widget a:hover {
-	color: #9ccc65;
+	color: #11b424;
 }
 .footer-widget a.lm {
 	line-height: 40px;
@@ -1361,7 +1361,7 @@ ul.quick-links li a:before {
 	margin-right: 10px;
 }
 ul.quick-links li a:hover {
-	color: #9ccc65;
+	color: #11b424;
 }
 ul.lastest-products {
 	padding: 0;
@@ -1394,7 +1394,7 @@ span.pdate {
 }
 span.pdate i {
 	font-style: normal;
-	color: #9ccc65;
+	color: #11b424;
 }
 ul.lastest-products li:last-child {
 	margin: 0px;
