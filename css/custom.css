@@ -368,6 +368,9 @@ Home Page Content Start
 	z-index: 99;
 	width: 100%;
 }
+#home-slider {
+    margin-bottom: 40px;
+}
 .slider-caption strong {
 	font-size: 36px;
 	font-family: 'Roboto Slab', serif;
@@ -489,6 +492,7 @@ Home Page Content Start
 	background: #027371;
 	color: #fff;
 }
+
 section#home-slider img {
 	width: 100%;
 	height: auto;
