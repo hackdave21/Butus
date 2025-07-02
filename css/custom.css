@@ -4899,8 +4899,8 @@ Blog Details Start
 	margin-bottom: 25px;
 }
 .blog-single-thumb img {
-	width: 100%;
-	height: auto;
+	width: 50%;
+	height: 50%;
 	border-radius: 5px;
 }
 .blog-single-content h3 {
