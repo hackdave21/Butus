@@ -2735,6 +2735,18 @@ a.con-btn {
 	padding: 0 25px;
 	margin: 6px 0 0;
 }
+.mdonate.btn-primary {
+    transition: all 0.3s ease;
+	background-color: #083f08;
+	border-color: #11b424;
+}
+
+.mdonate.btn-primary:hover {
+    background-color: #28a745 !important;
+    border-color: #28a745 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(40, 167, 69, 0.3);
+}
 a.con-btn:hover {
 	background: #20b1aa;
 	color: #fff;
