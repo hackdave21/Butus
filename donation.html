@@ -23,39 +23,52 @@
    <body>
       <div class="wrapper">
          <!--Header Start-->
-          <header class="header-style-2">
-            <nav class="navbar navbar-expand-lg">
-               <a class="navbar-brand" href="index.html"><img src="images/logo_complet.png" alt="Logo Butus" width="150px"></a>
-               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <i class="fas fa-bars"></i> </button>
-               <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                  <ul class="navbar-nav mr-auto">
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="index.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Accueil </a>
-                        <!-- <ul class="dropdown-menu" >
-                           <li><a href="index-2.html">Home One</a></li>
-                           <li><a href="home-two.html">Home Two</a></li>
-                           <li><a href="home-three.html">Home Three</a></li>
-                        </ul> -->
-                     </li>
-                     <li class="nav-item"> <a class="nav-link" href="about.html">A Propos</a> </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="events-grid.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Nos Services </a>
-                        <ul class="dropdown-menu" >
-                           <li><a href="events-grid.html">Seconde main</a></li>
-                           <li><a href="events-grid-2.html">Tri & Collecte</a></li>
+           <header class="header-style-2">
+        <nav class="navbar navbar-expand-lg">
+            <a class="navbar-brand" href="index.html">
+                <img src="images/logo_complet.png" alt="Logo Butus" width="150px">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <!-- Accueil - lien simple -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Accueil</a>
+                    </li>
+                    <!-- A Propos - lien simple -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">A Propos</a>
+                    </li>
+                    <!-- Nos Services - dropdown fonctionnel -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Nos Services
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="events-grid.html">Seconde main</a></li>
+                            <li><a class="dropdown-item" href="events-grid-2.html">Tri & Collecte</a></li>
                         </ul>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="causes.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Notre Objectif </a>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="contact-one.html"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Contact </a>
-                     </li>
-                     <li> <a class="mdonate" href="donation.html"><span>Faire un don</span></a> </li>
-                  </ul>
-               </div>
-            </nav>
-         </header>
+                    </li>
+                    <!-- Notre Objectif - lien simple -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="causes.html">Notre Objectif</a>
+                    </li>
+                    <!-- Contact - lien simple -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact-one.html">Contact</a>
+                    </li>
+                    <!-- Bouton don -->
+                    <li class="nav-item">
+                        <a class="btn btn-primary mdonate" href="donation.html">
+                            <span>Faire un don</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
          <div id="search">
             <button type="button" class="close">×</button>
             <form class="search-overlay-form">
