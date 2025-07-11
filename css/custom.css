@@ -313,8 +313,11 @@ Header End
 Inner Header Start
 *********************************/
 
-.inner-header {
+/* .inner-header {
 	background: url(../images/innerheader.jpg) no-repeat;
+} */
+.inner-header {
+	background: #083F08;
 }
 .inner-header h1 {
 	color: #fff;
