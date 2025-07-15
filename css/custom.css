@@ -9,7 +9,7 @@ Primary use:	Eco , Environmental, Charity, Eco Projects
 [Color codes]
 Background:			#fff (White)
 Content:			#555555 (gray)
-Header:				#1b5e20 (Dark Green)
+Header:				#004138 (Dark Green)
 Header 2:			#33691e (Medium Green)
 Footer:				#222222 (Dark Gray)
 Primary Color:		#11b424 (Medium Green)
@@ -317,7 +317,7 @@ Inner Header Start
 	background: url(../images/innerheader.jpg) no-repeat;
 } */
 .inner-header {
-	background: #083F08;
+	background: #004138;
 }
 .inner-header h1 {
 	color: #fff;
@@ -1314,7 +1314,7 @@ Home Page Content End
 Footer Start
 *********************************/
 .footer {
-	background: url(../images/footerbg.jpg) no-repeat;
+	background: #3F414E;
 	width: 100%;
 	float: left;
 	padding: 60px 0 0;
@@ -1479,14 +1479,14 @@ Home Page 2 Start
 	font-family: 'Roboto', sans-serif;
 }
 header.header-style-2 {
-	background: #1b5e20;
+	background: #004138;
 }
 header.header-style-2 .navbar {
 	padding: 0px;
 	margin: 0px;
 }
 header.header-style-2 .navbar-brand {
-	background: #083f08;
+	background: #004138;
 	width: 270px;
 	text-align: center;
 	padding: 13px 0;
@@ -1531,7 +1531,7 @@ ul.topnav-right li {
 	left: 0;
 }
 .mdonate:hover span {
-	color: #1b5e20;
+	color: #004138;
 	position: relative;
 	z-index: 99;
 }
@@ -2185,7 +2185,7 @@ a.view-more {
 	margin-top: 40px;
 }
 a.view-more:hover {
-	background: #1b5e20;
+	background: #004138;
 	color: #fff;
 }
 header .navbar-toggler {
@@ -2402,7 +2402,7 @@ Footer Style 2 Start
 	overflow: hidden;
 	width: 100%;
 	float: left;
-	background: #1b5e20;
+	background: #004138;
 	margin-top: -120px;
 }
 .footer-widget.about-ecova .f2logo {
@@ -2740,7 +2740,7 @@ a.con-btn {
 }
 .mdonate.btn-primary {
     transition: all 0.3s ease;
-	background-color: #083f08;
+	background-color: #004138;
 	border-color: #11b424;
 }
 
@@ -3646,7 +3646,7 @@ a.read-post:hover {
 	border: 0px;
 }
 .blog-post.blog-link {
-	background: #1b5e20;
+	background: #004138;
 	border-radius: 5px;
 	padding: 30px;
 }
@@ -4799,14 +4799,14 @@ My Account Page Start
 	cursor: pointer;
 }
 .login-box button.login-btn:hover, .myaccount-form button.register:hover {
-	background: #1b5e20;
+	background: #004138;
 	color: #fff;
 }
 .myaccount-form a {
 	color: #11b424;
 }
 .login-box a.fp:hover, .myaccount-form a:hover {
-	color: #1b5e20;
+	color: #004138;
 }
 .login-box {
 	background: #11b424;
@@ -5531,7 +5531,7 @@ a.contact-team {
 	padding: 0 25px;
 }
 a.contact-team:hover {
-	background: #1b5e20;
+	background: #004138;
 	color: #fff;
 }
 .p80-40 {
@@ -6799,11 +6799,11 @@ Search Overlay End
 	font-family: 'Roboto Condensed', sans-serif;
 }
 .newsletter input[type=submit]:hover, a.lm:hover, .add-2-cart input[type="submit"]:hover, a.view:hover, .side-search button:hover, .choose-ecova .volunteer-form input.fsubmit:hover, #search .btn:hover, .aboutus:hover {
-	background: #1b5e20;
+	background: #004138;
 	color: #fff;
 }
 .pro-hover a:hover {
-	color: #1b5e20;
+	color: #004138;
 }
 section.wf100.p80.fcampaigns {
 	padding: 73px 0 80px;
