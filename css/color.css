@@ -12,3 +12,39 @@
 .post-thumb a:hover, .f-cat span a:hover, .campaign-thumb a:hover, .event-thumb a:hover, .blog-thumb a:hover, .radio-boxes input[type=radio].css-radio+label.css-label:hover, .radio-boxes input[type=radio].css-radio:checked+label.css-label, .current-projects .nav-link.active, .current-projects .nav-link:hover, .gt-pagination .page-item.active .page-link, .gt-pagination .page-link:hover, .ser-thumb a:hover, .projects-grid .ser-box:hover .ser-txt span.aicon, .event-list .pro-list-box:hover a.partibtn, .gallery-img a:hover, .single-post-tags a:hover, .share-post a:hover, .slick-slide.slick-current:after, .slick-slide.slick-current span:after, .slick-slide.slick-current span:before {
 	border-color: #11b424;
 }
+
+/* Bouton Plateforme BUTUS */
+.btn-plateforme {
+    background-color: #13503c !important; /* Couleur vert foncé du site Butus */
+    color: #fff !important;
+    border-radius: 30px !important;
+    transition: all 0.4s ease-in-out !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 2px solid #13503c !important;
+}
+.btn-plateforme:hover {
+    background-color: #8cc63f !important; /* Vert clair du logo */
+    border-color: #8cc63f !important;
+    color: #fff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(140, 198, 63, 0.3) !important;
+}
+
+.btn-plateforme-slider {
+    background-color: #13503c;
+    color: #000000 !important;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    transition: all 0.4s ease-in-out;
+    display: inline-block;
+    border: 2px solid #13503c;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.btn-plateforme-slider:hover {
+    background-color: #8cc63f;
+    border-color: #8cc63f;
+    color: #fff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 15px rgba(140, 198, 63, 0.3);
+}
